@@ -385,49 +385,199 @@ button:focus,
     border-radius : 5px;
     }
 
-.progress-item .stacked-bar-graph {
-    width: 100%;
-    height: 38px;
-    /*background: #eee;*/
-    color: #414042;
-
-
-
+.progress-item .bar-java {
+    background-color : #4174F5;
+    box-shadow       : none;
+    text-align       : right;
+    height:100%;
+    float: left;
     }
 
-.progress-item .bar-1 {
-    background: #F7B334;
+.progress-item .bar-js {
+    background-color : #EEFB4E;
+    box-shadow       : none;
+    text-align       : right;
+    height:100%;
+    float: left;
+    }
+
+.progress-item .bar-c {
+    background-color : #5F8A65;
+    box-shadow       : none;
+    text-align       : right;
+    height:100%;
+    float: left;
+    }
+
+.progress-item .bar-cats {
+    background-color : #4174F5;
+    box-shadow       : none;
+    text-align       : right;
+    height:100%;
+    float: left;
 }
-.progress-item .bar-2 {
-    background: #A7A9AC;
+
+.progress-item .bar-dogs {
+    background-color : #EEFB4E;
+    box-shadow       : none;
+    text-align       : right;
+    height:100%;
+    float: left;
 }
-.progress-item .bar-3 {
-    background: #D57E00;
+
+.progress-item .bar-sql {
+    background-color : #D28FAF;
+    box-shadow       : none;
+    text-align       : right;
+    height:100%;
+    float: left;
 }
+
+.progress-item .bar-html {
+    background-color : #7AC3BE;
+    box-shadow       : none;
+    text-align       : right;
+    height:100%;
+    float: left;
+}
+
+.progress-item .bar-python {
+    background-color : #C03F3F;
+    box-shadow       : none;
+    text-align       : right;
+    height:100%;
+    float: left;
+}
+
+.progress-item .bar-uiux {
+    background-color : #4174F5;
+    box-shadow       : none;
+    text-align       : right;
+    height:100%;
+    float: left;
+}
+
+.progress-item .bar-db {
+    background-color : #EEFB4E;
+    box-shadow       : none;
+    text-align       : right;
+    height:100%;
+    float: left;
+}
+
+.progress-item .bar-ds {
+    background-color : #7AC3BE;
+    box-shadow       : none;
+    text-align       : right;
+    height:100%;
+    float: left;
+}
+
+.progress-item .bar-ag {
+    background-color : #D28FAF;
+    box-shadow       : none;
+    text-align       : right;
+    height:100%;
+    float: left;
+}
+
+.progress-item .bar-research {
+    background-color : #4174F5;
+    box-shadow       : none;
+    text-align       : right;
+    height:100%;
+    float: left;
+}
+
+.progress-item .bar-coding {
+    background-color : #EEFB4E;
+    box-shadow       : none;
+    text-align       : right;
+    height:100%;
+    float: left;
+}
+
+.progress-item .bar-codereview {
+    background-color : #7AC3BE;
+    box-shadow       : none;
+    text-align       : right;
+    height:100%;
+    float: left;
+}
+
+.progress-item .bar-documentation {
+    background-color : #D28FAF;
+    box-shadow       : none;
+    text-align       : right;
+    height:100%;
+    float: left;
+}
+
+.progress-item .bar-17 {
+    background-color : #B30303;
+    box-shadow       : none;
+    text-align       : right;
+    height:100%;
+    float: left;
+}
+
+.progress-item .bar-18 {
+    background-color : #FFDC00;
+    box-shadow       : none;
+    text-align       : right;
+    height:100%;
+    float: left;
+}
+
+.progress-item .bar-19 {
+    background-color : #061065;
+    box-shadow       : none;
+    text-align       : right;
+    height:100%;
+    float: left;
+}
+
+.progress-item .bar-20 {
+    background-color : #B30303;
+    box-shadow       : none;
+    text-align       : right;
+    height:100%;
+    float: left;
+}
+
+.progress-item .bar-21 {
+    background-color : #FFDC00;
+    box-shadow       : none;
+    text-align       : right;
+    height:100%;
+    float: left;
+}
+
 
 .progress-item .progress-bar {
     background-color : #FFC107;
     box-shadow       : none;
-    text-align       : right;
+    text-align       : center;
     }
 
 .progress-item .progress-percent {
     font-size        : 10px;
-    background-color : #313131;
+    color            : #000000;
     position         : absolute;
-    top              : 5px;
-    padding          : 0 8px;
+    top              : 30px;
     border-radius    : 3px;
+    left: 0px;
     }
 
-.progress-item .progress-percent::before {
+
+/*.progress-item .progress-percent::before {
     content      : "";
     position     : absolute;
     left         : 0;
     bottom       : -4px;
     border-top   : 6px solid #313131;
     border-right : 8px solid transparent;
-    }
+    }*/
 
 /*-------------------
  * Portfolio
