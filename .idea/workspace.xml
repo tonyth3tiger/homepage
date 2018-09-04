@@ -26,11 +26,11 @@
         <counts>
           <entry key="css" value="8" />
           <entry key="ejs" value="1" />
-          <entry key="html" value="4" />
+          <entry key="html" value="5" />
           <entry key="jpg" value="1" />
           <entry key="js" value="5" />
           <entry key="json" value="1" />
-          <entry key="php" value="3" />
+          <entry key="php" value="4" />
           <entry key="png" value="8" />
           <entry key="svg" value="1" />
         </counts>
@@ -39,25 +39,25 @@
         <counts>
           <entry key="CSS" value="8" />
           <entry key="EJS" value="1" />
-          <entry key="HTML" value="4" />
+          <entry key="HTML" value="5" />
           <entry key="Image" value="9" />
           <entry key="JSON" value="1" />
           <entry key="JavaScript" value="5" />
-          <entry key="PHP" value="3" />
+          <entry key="PHP" value="4" />
           <entry key="SVG" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="950" />
-          <entry key="html" value="7030" />
+          <entry key="html" value="7041" />
           <entry key="php" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="950" />
-          <entry key="HTML" value="7030" />
+          <entry key="HTML" value="7041" />
           <entry key="PHP" value="9" />
         </counts>
       </usages-collector>
@@ -68,8 +68,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="475" column="56" lean-forward="true" selection-start-line="475" selection-start-column="56" selection-end-line="475" selection-end-column="56" />
+            <state relative-caret-position="289">
+              <caret line="504" column="17" lean-forward="true" selection-start-line="504" selection-start-column="17" selection-end-line="504" selection-end-column="17" />
               <folding>
                 <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -102,6 +102,20 @@
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HTML/sendemail.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="47" lean-forward="true" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HTML/email-templates/simple.html">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -246,12 +260,12 @@
       <workItem from="1534965539512" duration="5518000" />
       <workItem from="1535061501711" duration="4867000" />
       <workItem from="1535093917376" duration="23915000" />
-      <workItem from="1535760669122" duration="303000" />
+      <workItem from="1535760669122" duration="1166000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72481000" />
+    <option name="totallyTimeSpent" value="73344000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -287,20 +301,8 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.php" />
-    <entry file="file://$PROJECT_DIR$/HTML/sendemail.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-714">
-          <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HTML/favicon.png">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/email-templates/simple.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3825" />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HTML/css/font-awesome.min.css">
       <provider selected="true" editor-type-id="text-editor" />
@@ -395,10 +397,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/email-templates/simple.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/sendemail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="47" lean-forward="true" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="475" column="56" lean-forward="true" selection-start-line="475" selection-start-column="56" selection-end-line="475" selection-end-column="56" />
+        <state relative-caret-position="289">
+          <caret line="504" column="17" lean-forward="true" selection-start-line="504" selection-start-column="17" selection-end-line="504" selection-end-column="17" />
           <folding>
             <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
